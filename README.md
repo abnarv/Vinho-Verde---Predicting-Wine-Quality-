@@ -1,0 +1,1 @@
+The Vinho Verde dataset consists of physicochemical and sensory data for Portuguese "Vinho Verde" wines. It is used to train models to predict wine quality based on objective chemical tests. The goal is to predict wine quality, 
